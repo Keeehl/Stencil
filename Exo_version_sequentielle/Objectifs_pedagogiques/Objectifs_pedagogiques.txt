@@ -1,0 +1,9 @@
+Objectif:
+
+    -Savoir implémenter un code parallèle de type stencil
+
+Prérequis:
+
+	-Un niveau L3 en programmation
+	-Une maîtrise des concepts de base de la programmation parallèle
+	(Conditions de compétition, fonctionnement d'une communication synchrone/asynchrone, topologie de processus)
